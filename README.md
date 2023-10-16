@@ -9,5 +9,7 @@ The code is developed with the architecture of UNet and ResUnet++, also has a cu
 
 We also developed a GUI version of the same and had given it to the doctors for further review. This GUI helps them upload an image and obtain a semantic mask as output which further gives us a classification output too.
 
+We at NITK had colloborated this project with Department of Pathology, Kasturba Medical College,Mangalore, MAHE, Manipal. As the data is sensitive we are unable to disclose the data, but the segmentation outputs where really appreciable by the Doctors at KMC.
+
 UNet Paper - https://arxiv.org/abs/1505.04597
 ResUNet Paper - https://arxiv.org/abs/1904.00592

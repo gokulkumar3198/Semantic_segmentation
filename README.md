@@ -1,4 +1,4 @@
-# segmentation
+# Segmentation
 Unet &amp; ResUnet Architecture for Medical Image analysis
 
 Myeloproliferative disorders are a group of hematopoietic neoplasms characterized by clonal proliferation of any of the hematopoetic lineage like Erythroid-Polycythemia vera, Myeloid-CML, megakaryocytic/platelet proliferation-Essential thrombocythemia, stomal component-Primary Myelofibrosis. It is well known that certain morphologic features of megakaryocyte like loose and dense clustering of megakaryocytes with cloud like nuclei are seen in Polycythemia vera, dense clustering of megakaryocytes with stag horn nuclei is seen in Myelofibrosis, large size megakaryocytes with stag horn multinucleate nuclei are seen in Essential thrombocythemia along with secondary features like sinusoidal dilatation and extra medullary hematopoiesis. Dwarf megakaryocytes is a feature of chronic myeloid leukemia. Microscopic studies and morphologic evaluation becomes mandatory in all these cases to come for a conclusive diagnosis.

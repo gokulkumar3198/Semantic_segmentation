@@ -8,3 +8,5 @@ We are trying to exploit the Morphological features using deep learning techniqu
 The code is developed with the architecture of UNet and ResUnet++, also has a custom training script.
 
 We also developed a GUI version of the same and had given it to the doctors for further review. This GUI helps them upload an image and obtain a semantic mask as output which further gives us a classification output too.
+
+UNet Paper - https://arxiv.org/abs/1505.04597

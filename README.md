@@ -6,3 +6,5 @@ Myeloproliferative disorders are a group of hematopoietic neoplasms characterize
 We are trying to exploit the Morphological features using deep learning techniques and narrow down on the Region of Interest and eventually perform a semantic segmentation task. By performing an Image segmentation we will be able to classify each and every pixel into its category. To perform this task we have used two Deep learning Networks UNet and ResUnet++.
 
 The code is developed with the architecture of UNet and ResUnet++, also has a custom training script.
+
+We also developed a GUI version of the same and had given it to the doctors for further review. This GUI helps them upload an image and obtain a semantic mask as output which further gives us a classification output too.
